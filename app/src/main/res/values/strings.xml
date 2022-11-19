@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JavaViewPage2Ajith</string>
+    <string name="title">Quotes</string>
+
+    <string name="share_quotes">Share Quotes</string>
+    <string name="go_to">Goto</string>
+
+
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+</resources>
